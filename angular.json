@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "IWCsite": {
+    "angular-18-primeng-app": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/IWCsite",
+            "outputPath": "dist/angular-18-primeng-app",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "IWCsite:build:production"
+              "buildTarget": "angular-18-primeng-app:build:production"
             },
             "development": {
-              "buildTarget": "IWCsite:build:development"
+              "buildTarget": "angular-18-primeng-app:build:development"
             }
           },
           "defaultConfiguration": "development"
