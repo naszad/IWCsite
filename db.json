@@ -1,0 +1,19 @@
+{
+  "teachers": [
+    {
+      "id": "aa05",
+      "name": "Test Teacher",
+      "email": "test@gmail.com",
+      "password": "test1234"
+    }
+  ],
+  "students": [
+    {
+      "id": "80ff",
+      "name": "Test Student",
+      "language": "English",
+      "level": "C",
+      "password": "test1234"
+    }
+  ]
+}
