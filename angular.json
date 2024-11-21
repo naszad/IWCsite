@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/IWCsite/src",
             "index": "index.html",
-            "browser": "src/main.ts",
+            "browser": "main.ts",
             "polyfills": ["zone.js"],
             "tsConfig": "tsconfig.app.json",
             "assets": [
