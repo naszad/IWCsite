@@ -1,5 +1,5 @@
 {
-  "name": "angular-18-primeng-app",
+  "name": "IWCsite",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -18,7 +18,7 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
-    "angular-18-primeng-app": "file:",
+    "IWCsite": "file:",
     "json-server": "^1.0.0-beta.3",
     "primeflex": "^3.3.1",
     "primeicons": "^7.0.0",
