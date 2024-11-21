@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
+    "amplify": "^0.0.11",
     "IWCsite": "file:",
     "json-server": "^1.0.0-beta.3",
     "primeflex": "^3.3.1",
